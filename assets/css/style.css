@@ -666,7 +666,7 @@ pre code {
     max-width: 540px;
   }
 
-  .
+
 }
 
 @media (min-width: 768px) {
@@ -7669,7 +7669,7 @@ button.bg-dark:focus {
 
 .pl-5,
 .px-5 {
-  padding-left: 10rem !important;
+  padding-left: 5rem !important;
 }
 
 .m-n1 {
@@ -9803,7 +9803,7 @@ section
 
 /* layanan */ 
 @media (min-width: 1024px)
-._9t33._9bir {
+._9t33 ._9bir {
     width: 100%;
 }
 ._9se- {
