@@ -666,7 +666,6 @@ pre code {
     max-width: 540px;
   }
 
-
 }
 
 @media (min-width: 768px) {
@@ -5609,6 +5608,7 @@ a.close.disabled {
   .modal-sm {
     max-width: 300px;
   }
+  
 }
 
 @media (min-width: 992px) {
@@ -7669,7 +7669,7 @@ button.bg-dark:focus {
 
 .pl-5,
 .px-5 {
-  padding-left: 5rem !important;
+  padding-left: 4rem !important;
 }
 
 .m-n1 {
