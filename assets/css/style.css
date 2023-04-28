@@ -481,17 +481,17 @@ h2, .h2 {
 }
 @media (max-width: 1360px) {
   h2, .h2 {
-    font-size: 75%;
+    font-size: 76%;
   }
 }
 @media (max-width: 1280px) {
   h2, .h2 {
-    font-size: 75%;
+    font-size: 70%;
   }
 }
 @media (max-width: 1152px) {
   h2, .h2 {
-    font-size: 75%;
+    font-size: 60%;
   }
 }
 @media (max-width: 1024px) {
@@ -501,12 +501,12 @@ h2, .h2 {
 }
 @media (max-width: 996px) {
   h2, .h2 {
-    font-size: 75%;
+    font-size: 85%;
   }
 }
 @media (max-width: 768px) {
   h2, .h2 {
-    font-size: 45%;
+    font-size: 75%;
   }
 }
 @media (max-width: 575px) {
