@@ -94,6 +94,20 @@ span {
   
 }
 
+.vm {
+  font-family: 'Seagull', sans-serif; 
+  font-size: 1.3rem;
+}
+
+@media (max-width: 567px) {
+  .vm {
+    text-shadow: 2px 2px 10px #6610f2;
+    font-size: 110%;
+  }
+}
+
+
+
 .lay {
   font-size: 1.3rem;
 }
