@@ -476,7 +476,7 @@ h2, .h2 {
 
 @media (max-width: 1600px) {
   h2, .h2 {
-    font-size: 86%;
+    font-size: 90%;
   }
 }
 
@@ -2488,7 +2488,7 @@ textarea.form-control {
   font-size: 1rem;
   line-height: 1.5;
   border-radius: 0;
-  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  transition: color 0.10s ease-in-out, background-color 0.10s ease-in-out, border-color 0.10s ease-in-out, box-shadow 0.10s ease-in-out;
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -4382,7 +4382,8 @@ input[type="button"].btn-block {
 
 @media (max-width: 567px) {
   .row span {
-    font-size: 38%;
+    font-size: 39%;
+    font-weight: 799;
   }
 }
 
@@ -9880,24 +9881,22 @@ h6,
 }
 
 .sos1 {
-  top: 3%;
+  width: 1cm;
 }
 
 .sos2 {
-  position: fixed;
-  top: 38%;
-  right: 7px;
+  width: 1.2cm;
 }
 
-.sos3 {
-	position: fixed;
-  bottom: 50%;
+@media (max-width: 567px) {
+  .sos1 {
+    width: 0.9cm;
+  }
+  
+  .sos2 {
+    width: 1.1cm;
+  }
 }
-
-.sos4 {
-  bottom: 50%;
-}
-
 .quote
 {
 	height: 100%;
