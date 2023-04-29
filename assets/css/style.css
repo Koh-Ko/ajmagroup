@@ -479,7 +479,11 @@ h2, .h2 {
     font-size: 90%;
   }
 }
-
+@media (max-width: 1430px) {
+  h2, .h2 {
+    font-size: 78%;
+  }
+}
 @media (max-width: 1400px) {
   h2, .h2 {
     font-size: 78%;
