@@ -479,14 +479,14 @@ h2, .h2 {
     font-size: 90%;
   }
 }
-@media (max-width: 1430px) {
+@media (max-width: 1450px) {
   h2, .h2 {
-    font-size: 70%;
+    font-size: 85%;
   }
 }
 @media (max-width: 1400px) {
   h2, .h2 {
-    font-size: 78%;
+    font-size: 80%;
   }
 }
 @media (max-width: 1360px) {
