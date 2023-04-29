@@ -476,12 +476,18 @@ h2, .h2 {
 
 @media (max-width: 1600px) {
   h2, .h2 {
-    font-size: 92%;
+    font-size: 90%;
+  }
+}
+
+@media (max-width: 1400px) {
+  h2, .h2 {
+    font-size: 80%;
   }
 }
 @media (max-width: 1360px) {
   h2, .h2 {
-    font-size: 76%;
+    font-size: 70%;
   }
 }
 @media (max-width: 1280px) {
