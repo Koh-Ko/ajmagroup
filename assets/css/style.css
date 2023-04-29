@@ -9884,11 +9884,13 @@ h6,
 }
 
 .sos2 {
+  position: fixed;
   top: 38%;
   right: 7px;
 }
 
 .sos3 {
+	position: fixed;
   bottom: 50%;
 }
 
