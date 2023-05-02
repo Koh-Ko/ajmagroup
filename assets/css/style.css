@@ -91,7 +91,8 @@ h2, h3, h4, h5, h6 {
 span {
   font-family: 'Poppins', sans-serif;
   font-size: 0.9rem;
-  
+  text-decoration: none;
+  color: #fff;
 }
 
 .vm {
@@ -4388,6 +4389,8 @@ input[type="button"].btn-block {
   .row span {
     font-size: 39%;
     font-weight: 799;
+    text-decoration: none;
+    color: #fff;
   }
 }
 
